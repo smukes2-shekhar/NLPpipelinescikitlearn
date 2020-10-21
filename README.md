@@ -1,0 +1,2 @@
+# NLPpipelinescikitlearn
+Used pandas to understand the dataset and performed hypothesis testing to create new features based on existing data. Moreover, performed preprocessing of the text lines and created custom transformers using object-oriented programming to pass into the Machine Learning.  Key Achievements: - Predicted and classified the texts with an average precision of 97% and accuracy of 96% using the seaborn heatmap
